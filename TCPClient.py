@@ -1,6 +1,7 @@
 from socket import *
 # 10.0.0.156 Mio
 # 192.168.0.77 L
+# Testeo
 serverName = '10.250.145.79'
 serverPort = 12000
 clientSocket = socket(AF_INET, SOCK_STREAM)
